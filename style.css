@@ -13,6 +13,12 @@
     align-items: center;
     min-height: 5vh;
 }
+
+.vid {
+    display: block;
+    margin: 0 auto;
+    width: 400px; }
+
 h1
 {
     position: relative;
