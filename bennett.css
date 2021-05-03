@@ -95,25 +95,25 @@
 }
 .container .section:nth-child(13)
 {
-    background: url(Bennett/14.jpg);
+    background: url(Bennett/15.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(14)
 {
-    background: url(Bennett/15.jpg);
+    background: url(Bennett/16.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(15)
 {
-    background: url(Bennett/16.jpg);
+    background: url(Bennett/17.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 .container .section:nth-child(16)
 {
-    background: url(Bennett/17.jpg);
+    background: url(Bennett/14.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
