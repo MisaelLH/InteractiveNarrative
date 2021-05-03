@@ -102,6 +102,13 @@
 }
 .container .section .content h2
 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    max-width: 700px;
+}
+.container .section .content h2
+{
     background: #fff;
     color: #111;
     font-weight: 600;
