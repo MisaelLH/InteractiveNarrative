@@ -1,23 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Monserrat:300,400,500,600,700,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
 *
 {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 .header
 {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 5vh;
+    min-height: 3vh;
 }
-
-.vid {
-    display: block;
-    margin: 0 auto;
-    width: 400px; }
 
 h1
 {
@@ -48,16 +43,13 @@ h1::before
         width: 100%;
     }
 }
-body
-{
-    background-image: url("images/connection.png");
-}
+
 .images
 {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 70vh;
 }
 .hero-btn {
     display: inline-block;
